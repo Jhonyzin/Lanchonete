@@ -7,6 +7,7 @@
 
 
 int main(){
+
     setlocale(LC_ALL, "Portuguese");
 
     printf("Seja bem-vindo(a) ao Lanchonete \n");
@@ -19,6 +20,5 @@ int main(){
 
 
     }
-    
     return 0;
 }
