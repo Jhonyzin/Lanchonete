@@ -9,5 +9,7 @@
 int main(){
     printf("TESTANDO!!!!!!!! \n");
     printf("\n\nMIM MATA PFV!!!!!!!!!!!!");
+    printf("\n\n pq?");
+
     return 0;
 }
