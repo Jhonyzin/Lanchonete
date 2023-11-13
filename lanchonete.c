@@ -10,9 +10,10 @@ int main(){
 
     setlocale(LC_ALL, "Portuguese");
 
+
     while(sim!=1){
         printf("Seja bem-vindo(a) a Lanchonete \n");
-        printf("Deseja ver nosso card·pio? \n");
+        printf("Deseja ver nosso card√°pio? \n");
         scanf("%s", con);
 
         if (strcmp(con, "sim") == 0||strcmp(con, "SIM") == 0||strcmp(con, "sIM") == 0||strcmp(con, "SiM") == 0||strcmp(con, "SIm") == 0||strcmp(con, "Sim") == 0){
@@ -24,7 +25,7 @@ int main(){
             exit(1);
         }
         else{
-            printf("\n\n!!!!!RESPOSTA INV¡LIDA!!!!!\n\n");
+            printf("\n\n!!!!!RESPOSTA INV√ÅLIDA!!!!!\n\n");
             system("pause");
             system ("cls");
         }
