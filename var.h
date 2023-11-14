@@ -5,6 +5,7 @@ extern int i=0, sim=0;
 extern float valores[12]={2,3.5,3.5,5.5,5.5,5.5,4.5,6.9,5.5,6.5,18.9,22};
 
 extern char carda[12][300]={"Agua", "Suco de uva", "Suco de laranja", "Coca-Cola", "Pepsi", "Guarana", "Fanta", "Empada", "Coxinha", "Salada de Frutas", "Hamburguer", "Pizza"};
+lanchonete_cores4.c
 
 
 
@@ -51,3 +52,4 @@ enum{
 // EXEMPLO DE COMO USAR:
 // SEMPRE UTILIZE O textColor(a cor da letra, a cor do fundo); (cores de fundo utilizar sem o "_" - underline)
 // sempre começará com a cor que você vai utilizar e vai terminar na cor normal que você precisa mudar também.
+ main
